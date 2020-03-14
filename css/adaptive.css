@@ -1,0 +1,556 @@
+@media screen and (max-width:1291px){
+    footer .inner{
+        max-width: 940px;
+    }
+    .footer_about {
+        margin-left: 57px;
+    }
+    .footer_main{
+        margin-left: 0;
+    }
+}
+@media screen and (max-width:1207px){
+    .inner{
+        max-width: 940px;
+    }
+    .catalog_work .inner{
+        max-width: 940px;
+    }
+    .review .inner{
+        max-width: 940px;
+    }
+    .feedback .inner{
+        max-width: 940px;
+    }
+    main .inner{
+        max-width: 940px;
+    } 
+    .header_slider .slick-dots{
+        margin-left: -470px;
+    }   
+    .menu ul{
+        display: none;
+    }
+    .header_burger_button{        
+        display: block;
+    }
+    .cars_item button{
+        padding: 13px 0 19px;
+    }
+    .cars_item button::after{
+        right: 16px;
+    }
+    .calculator_right_result{
+        padding-left: 35px;
+        padding-right: 34px;
+    }
+    .menu .list {
+        display: flex;
+    }
+    .calculator_right{
+        margin-left: 35px;
+    }
+    .radio_3 label{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .offers_item span br{
+        display: none;
+    }
+    .catalog_auto .right_side .cars_catalog .row .cars_container {width: 50%;}
+    .catalog_auto .right_side .cars_catalog .row .cars_container .cars_text {padding-left: 10px;}
+    .card_auto_block {flex-wrap: wrap;}
+    .card_auto_block .left_side{margin: 0 auto;}
+    .card_auto_block .right_side{margin: 30px auto 0px; width: 100%;}
+    .contacs_main_block .inner{flex-wrap: wrap;}
+    .contacs_main_block .contacs_main_block_left_side{padding: 35px 70px 24px 35px;}
+    .contacs_main_block .contacs_main_block_left_side .contacs_main_block_left_side_imgs img{max-width: 135px;}
+    .services_block .row .services_block_container .services_block_item{max-width: 462px;}
+    .services_block .row .services_block_container .services_block_item img{max-width: 462px;width: 100%;}
+}
+@media screen and (max-width:960px){
+    .cars_catalog .row .cars_container{
+        width: 33.3%;
+    }
+    .cars_catalog .row .cars_container:last-child{
+        display: none;
+    }
+    .description_info_video{
+        width: 48%;
+    }
+    .description_info_video_img{
+        margin-left: 0;
+    }
+    .description_info_video_img img{
+        max-width: 461px;
+    }
+    .description_info_video_text{
+        margin-left: 0;
+    }
+    
+    .advantages_text br{
+        display: none;
+    }
+    .description_info_text {
+        width: 52%;
+    }
+    .description_info_text br{
+        display: none;
+    }
+    .offers_item span br{
+        display: none;
+    }
+    .review_comment {        
+        margin-left: 55px;        
+    }
+    .header_burger_links{
+        display: block;
+    }
+    .header_burger_link{
+        margin-left: 0;
+        margin-top: 22px;
+    }
+    .header_burger_link:first-child{
+        margin-top: 0;
+    }
+    .header_burger{
+        padding-right: 100px;
+    }
+
+}
+@media screen and (max-width:936px){
+    .inner{
+        max-width: 768px;
+    }
+    .catalog_work .inner{
+        max-width: 768px;
+    }
+    .review .inner{
+        max-width: 768px;
+    }
+    .feedback .inner{
+        max-width: 768px;
+    }
+    main .inner{
+        max-width: 768px;
+    }
+    
+    .catalog_work_h {
+        line-height: 40px;
+    }
+    .container_offers{
+        width: 100%;
+    }
+    .catalog_offers .row{
+        flex-wrap: wrap;
+    }
+    .advantages_catalog .row{
+        flex-wrap: wrap;
+    }
+    .advantages_container {        
+        width: 50%;
+        padding-right: 79px;
+    }
+    .advantages_item_text span br{
+        display: none;
+    }
+    .row .work_container::before {        
+        left: 64px;
+    }
+    .description_title br{
+        display: none;
+    }
+    .description_info{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .description_info_text {
+        width: 100%;    
+    }
+    .description_info_video {
+        width: auto;
+    }
+    .description_info_video_img {        
+        max-width: 461px;
+    }
+    .review_comment br{
+        display: none;
+    }
+    .footer_about ul{
+        display: none;
+    }
+    .footer_services ul{
+        display: none;
+    }
+    .footer_main li:nth-child(2){
+        display: list-item;
+    }
+    .footer_main li:nth-child(3){
+        display: list-item;
+    }
+    .footer_about {
+        display: none;
+    }
+    .footer_services {
+        display: none;
+    }
+    .footer_contacs_block {
+        margin-right: 0;
+    }
+    .footer_main {
+        margin-left: 264px;
+    }
+    .advantages_catalog {        
+        padding-left: 25px;
+    }
+    .header_slider .slick-dots{
+        margin-left: -384px;
+    }
+    .calculator_block{
+        flex-wrap: wrap;
+        padding-right: 63px;
+    }
+    .calculator_left{
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .calculator_right{
+        width: 100%;
+        margin-left: 0;
+        border: 0;
+        margin-top: 30px;
+        padding-top: 0;
+    }
+    .calculator_right_result{
+        padding: 0;
+        border: 0;
+    }
+    .calculator_button button{
+        padding: 11px 45px;
+    }
+    .calculator_left_radio_money{
+        justify-content: center;
+    }
+    .calculator_left_title_money{
+        text-align: center;
+    }
+    .contacs_main_block .contacs_main_block_left_side{padding: 35px 0 24px 35px;}
+    .contacs_main_block .contacs_main_block_left_side .contacs_main_block_left_side_imgs img{max-width: 94px;}
+    .services_block .row .services_block_container .services_block_item .services_block_item_text{padding-left: 25px;padding-right: 25px;}
+    .services_block .row .services_block_container .services_block_item .services_block_item_text p br{display: none;}
+}
+@media screen and (max-width:814px){
+    .catalog_auto .left_side{float: none;}
+    .catalog_auto .left_side .filters_block{display: flex; flex-wrap: wrap;}
+    .catalog_auto .left_side .filters_block .filters_item{margin-right: 10px;}
+    .catalog_auto .right_side .cars_catalog .row{justify-content: center;}
+}
+@media screen and (max-width:794px){
+    .footer_main{
+        margin-left: 0;
+    }
+}
+@media screen and (max-width:736px){    
+    .form button {        
+        padding: 19px 33px;
+        margin-left: 0;       
+    }
+    .form{
+        flex-wrap: wrap;        
+    }
+    .form form{
+        width: 100%;
+    }
+    .form input {
+        width: 32.3%;
+    }
+    .header_slider .slick-dots{
+        margin-left: 0;
+        left: 2%;
+    }
+    
+}
+@media screen and (max-width:702px){
+    .contacs_main_block .contacs_main_block_left_side{width: 100%;}
+    .contacs_main_block .contacs_main_block_right_side{width: 100%;padding: 0 10px 24px 15px;}
+    .contacs_main_block .contacs_main_block_right_side iframe{max-width: 100%; min-height: 244px; height: 100%;}
+
+}
+@media screen and (max-width:679px){
+    .cars_catalog .row .cars_container {
+        width: 50%;
+    }
+    .cars_catalog .row .cars_container:last-child{
+        display: block;
+    }
+    .feedback_title br{
+        display: block;
+    }
+    
+}
+@media screen and (max-width:651px){    
+    .form input {
+        width: 31.3%;
+    }
+    .calculator_year_item span:first-child{
+        display: inline-block;
+    }
+    .calculator_year_item span:last-child{
+        display: none;
+    }
+    .services_block{padding: 0 10px 43px;}
+    .services_block .row .services_block_container{width: 100%;}
+    .services_block .row .services_block_container .services_block_item{margin: 0 auto;}
+}
+@media screen and (max-width:567px){
+    
+    .number_town {
+        display: none;
+    }
+    .call{
+        display: none;
+    }
+    .form form {
+        display: none;
+    }
+    .info_header p {
+        font-family: 'Geometria';
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 1;
+    }
+    .info_header {
+        margin-top: 51px;
+    }
+    .work_container {        
+        width: 100%;       
+    }
+    .work_container::after{
+        top: 115%;
+        right: 47%;
+        transform: rotate(90deg);
+    }
+    .row .offers_item{
+        padding: 28px 24px 30px 22px;
+    }
+    .advantages_container:first-child {
+        margin-top: 0;      
+    }
+    .advantages_container {
+        width: 100%;
+        margin-top: 23px;       
+    }
+    .advantages_catalog{
+        margin-top: 30px;
+    }
+    .choose_container{
+        width: 100%;
+        margin-bottom: 27px;
+    }
+    .cars_catalog .row .cars_container{
+        width: 100%;
+    }
+    .cars_img{
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+    }
+    .review_slider_item{
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+    .review_comment {
+        margin-left: 0;
+    }
+    .review_profile{
+        margin-top: 43px;
+    }
+    .review_comment::before{
+        left: 50%;
+        top: 100%;
+    }
+    .feedback_title{
+        font-size: 24px;
+    }
+    .feedback_form form{
+        flex-direction: column;
+    }
+    .feedback_form textarea{
+        margin-left: 0;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .feedback_form_leftbox{
+        max-width: 100%;
+    }
+    .feedback_form input{
+        text-align: center;
+    }
+    .footer_main{
+        display: none;
+    }
+    .footer_links{
+        display: none;
+    }
+    .footer_info{
+        justify-content: center;
+    }
+    .footer_contacts{
+        text-align: center;
+    }
+    .footer_social{
+        justify-content: center;
+    }
+    .footer_under{
+        flex-wrap: wrap;
+    }
+    .footer_copyright{
+        width: 100%;
+        text-align: center;
+    }
+    .footer_politic a{
+        margin-left: 0;
+    }
+    .footer_politic{
+        width: 100%;
+        text-align: center;
+    }
+    .footer_disigner{
+        margin-left: 0;
+        margin-top: 24px;
+        text-align: center;
+    }
+    .offers_item{
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }    
+    .row .work_container::before {
+        left: 215px;
+    }
+    .header_burger {
+        display: block;
+        padding-right: 31px;
+    }
+    .header_burger_about{
+        padding-left: 0;
+        margin-top: 25px;
+    }
+    .header_burger_services {
+        margin-top: 25px;
+    }
+    .header_burger_links{
+        margin-top: 25px;
+    }
+    .header_burger_menu .number_town{
+        display: block;
+        z-index: 4;
+    }
+    .header_burger_menu button{
+        display: block;
+        z-index: 4;
+    }
+    .header_burger_menu .number_town{
+        margin-left: 0;
+        display: flex;
+        flex-wrap: wrap;    
+    }
+    .header_burger_menu .number{
+        width: 100%;
+    }
+    .header_burger_menu .number a{    
+        font-weight: 700;
+        font-size: 14px;
+        font-family: 'Geometria';
+        color: #2d2d31;
+    }
+    
+    
+    .header_burger_menu .town a{
+        font-family: 'Geometria';
+        font-size: 14px;
+        position: relative;
+        color: #78787a;
+    }
+    .header_burger_menu .town{
+        text-align: right;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        line-height: 11px;
+    }
+    .header_burger_menu .call{
+        font-family: 'Geometria';
+        font-size: 8px;
+        padding: 11px 23px;
+        background-color: rgba(0, 0, 0, 0);
+        color: #c73443;
+        border: 1px solid #c73443;
+        border-radius: 3px;
+        margin-left: 0;
+    }
+    .number_town_call{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 50px;
+    }
+    .header_burger_main{
+        margin-top: 31px;
+    }
+    .row .work_img::before{
+        left: 37%;
+    }
+    .calculator_right_request{
+        padding: 0;
+    }
+    .catalog_work_h{
+        font-size: 24px;
+    }
+    .calculator_title{
+        font-size: 24px;
+    }
+    .offers_title{
+        font-size: 24px;
+    }
+    .advantages_text_title{
+        font-size: 24px;
+    }
+    .description_title{
+        font-size: 24px;
+        line-height: 26px;
+    }
+    .choose_title{
+        font-size: 24px;
+    }
+    .cars_title{
+        font-size: 24px;
+    }
+    .review_title{
+        font-size: 24px;
+    }
+    .catalog_auto .right_side .cars_catalog .row .cars_container{width: 100%;}
+    .catalog_auto .left_side{margin-right: 0;}
+    .header_catalog_auto .catalog_auto_title{font-size: 24px;}
+    .card_auto_content{flex-wrap: wrap;}
+    .card_auto_content_back{margin-left: 0;padding-left: 0;width: 100%;padding-right: 17px;}
+    .card_auto_content_back::before{transform: none; left: 124px;}
+    .card_auto_block .left_side{transform: scale(0.6);margin-left: -80px;}
+    .card_auto_block .left_side .other_img {}
+
+}
+@media screen and (max-width:462px){
+    .calculator_right_result label br{
+        display: block;
+    }
+    .calculator_block{
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+}
+@media screen and (max-width:362px){
+    .calculator_sliders input{
+        width: 143px;
+    }
+    .card_auto_block .right_side .price{display: block;margin-left: 0;}
+    .contacs_main_block .contacs_main_block_left_side{padding: 20px 10px 24px 15px;}
+    .contacs_main_block .contacs_main_block_left_side .contacs_main_block_left_side_imgs img{max-width: 78px;}
+}
